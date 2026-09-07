@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/mascot.svg" width="180" alt="Tiny Robot Company mascot">
+  <img src="https://raw.githubusercontent.com/tinyrobotcompany/tinyrobotcompany/main/public/brand/mascot.svg" width="180" alt="Tiny Robot Company mascot">
 </p>
 
 <h1 align="center">Tiny Robot Company</h1>
@@ -21,11 +21,11 @@
 
 ---
 
-A studio of one, working at the seam between **generative AI**, **small-batch electronics** and the occasional **robot that behaves**.$
+A studio of one, working at the seam between **generative AI**, **small-batch electronics** and the occasional **robot that behaves**.
 
 ## On the bench
 
-The workshop just opened — the first shipped project lands soon. In the meantime, active experiments live over at [**@simonholmes001**$
+The workshop just opened — the first shipped project lands soon. In the meantime, active experiments live over at [**@simonholmes001**]
 
 <!--
 As projects graduate from @simonholmes001 to the org, list them here.
