@@ -29,3 +29,12 @@ The workshop just opened — the first shipped project lands soon. In the meanti
 
 <!--
 As projects graduate from @simonholmes001 to the org, list them here.
+
+### Signal Sketchbook
+Live visualiser that turns conversation and ambient audio into evolving generative graphics.
+`Whisper` · `WGPU` · `Rust` — [Repo →](https://github.com/tinyrobotcompany/signal-sketchbook)
+
+Small Voice
+A local assistant on a Pi Zero 2 W. Wake-word, no cloud, low-milliwatt.
+`Llama.cpp` · `KiCad` — [Repo →](https://github.com/tinyrobotcompany/small-voice)
+-->
