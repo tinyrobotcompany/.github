@@ -25,7 +25,7 @@ A studio of one, working at the seam between **generative AI**, **small-batch el
 
 ## On the bench
 
-The workshop just opened — the first shipped project lands soon. In the meantime, active experiments live over at [**@simonholmes001**]
+The workshop just opened — the first shipped project lands soon. In the meantime, active experiments live over at <a href="https://github.com/simonholmes001">@simonholmes001</a>
 
 <!--
 As projects graduate from @simonholmes001 to the org, list them here.
